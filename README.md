@@ -1,2 +1,1 @@
-# word-cloud
-This is my word cloud project 
+# Word-Cloud-Project
