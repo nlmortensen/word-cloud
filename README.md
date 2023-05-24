@@ -1,4 +1,4 @@
-# Word-Cloud
+# Word Cloud
 
 This is a script that I implemented in Python that generates a word cloud from a text file. 
 
